@@ -5,6 +5,7 @@
 
 ------
 ## Photo or video of the ESP32 blinking LED (your own)
+1. 
 ![image](https://github.com/user-attachments/assets/f239b1d7-d6ae-4e16-a4bd-d5a8c1159e4b)
 ### Serial monitor
 ![image](https://github.com/user-attachments/assets/a86a019f-99fa-4943-b883-bfd78970eb49)
