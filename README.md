@@ -2,9 +2,9 @@
 
 ## Screenshot of Arduino IDE showing selected board & port
 ![image](https://github.com/user-attachments/assets/156fb3f7-da36-4c0c-9645-31cc6d125541)
-
+<br/><br/>
 ------
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 ## Photo or video of the ESP32 blinking LED (your own)
 ![image](https://github.com/user-attachments/assets/f239b1d7-d6ae-4e16-a4bd-d5a8c1159e4b)
 ### Serial monitor
